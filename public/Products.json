@@ -1,0 +1,160 @@
+[
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "category": "T-Shirt",
+      "MRP_price": 299,
+      "color":"yellow",
+      "image": ["/Image/Products/p4.png", "/Image/Products/p10.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":3,
+      "reviews": [
+        { "rating": 4.3, "name": "Jone", "comment": "Good quality and fit." },
+        { "rating": 5, "name": "Arjun", "comment": "Exactly as expected!" },
+        { "rating": 3.5, "name": "Ravi", "comment": "Material could be better." }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Black Polo Shirt",
+      "category": "Polo",
+      "MRP_price": 449,
+      "color":"lightskyblue",
+      "image": ["/Image/Products/p2.png", "/Image/Products/p8.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":4.5,
+      "reviews": [
+        {
+          "rating": 4.7,
+          "name": "Maya",
+          "comment": "Very comfortable and soft fabric."
+        },
+        { "rating": 4, "name": "Vikram", "comment": "Good casual wear." }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Denim Jacket",
+      "category": "Jacket",
+      "MRP_price": 1299,
+      "color":"lightskyblue",
+      "image": ["/Image/Products/p3.png", "/Image/Products/p9.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":3.5,
+      "reviews": [
+        { "rating": 4.9, "name": "Rahul", "comment": "Premium look and feel!" },
+        {
+          "rating": 4.5,
+          "name": "Simran",
+          "comment": "Loved the color and fitting."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hooded Sweatshirt",
+      "category": "Hoodie",
+      "MRP_price": 999,
+      "color":"gray",
+      "image": ["/Image/Products/p1.png", "/Image/Products/p7.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":2.5,
+      "reviews": [
+        { "rating": 4.1, "name": "Neha", "comment": "Warm and cozy." },
+        { "rating": 4.3, "name": "Karan", "comment": "Perfect for winter." }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Slim Fit Jeans",
+      "category": "Jeans",
+      "MRP_price": 1199,
+      "color":"yellow",
+      "image": ["/Image/Products/p5.png", "/Image/Products/p11.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":2.5,
+      "reviews": [
+        { "rating": 4.0, "name": "Ajay", "comment": "Fits as expected." },
+        { "rating": 3.8, "name": "Priya", "comment": "Slightly tight on waist." }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Formal Blue Shirt",
+      "category": "Shirt",
+      "MRP_price": 799,
+      "color":"gray",
+      "image": ["/Image/Products/p1.png", "/Image/Products/p12.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":5.5,
+      "reviews": [
+        { "rating": 4.2, "name": "Suresh", "comment": "Great for office use." },
+        { "rating": 4.6, "name": "Meera", "comment": "Classy and clean look." }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Graphic Print Tee",
+      "category": "T-Shirt",
+      "MRP_price": 399,
+      "color":"yellow",
+      "image": ["/Image/Products/p7.png", "/Image/Products/p1.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":3.7,
+      "reviews": [
+        {
+          "rating": 4.8,
+          "name": "Nikhil",
+          "comment": "Love the print and softness."
+        },
+        { "rating": 4.5, "name": "Kriti", "comment": "Trendy design!" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cotton Kurta",
+      "category": "Ethnic",
+      "color":"black",
+      "MRP_price": 699,
+      "image": ["/Image/Products/p8.png", "/Image/Products/p2.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":1.5,
+      "reviews": [
+        { "rating": 4.4, "name": "Divya", "comment": "Traditional yet modern." },
+        { "rating": 4.6, "name": "Raghav", "comment": "Good stitching." }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cargo Shorts",
+      "category": "Shorts",
+      "MRP_price": 549,
+      "color":"black",
+      "image": ["/Image/Products/p9.png", "/Image/Products/p3.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":4.5,
+      "reviews": [
+        { "rating": 4.1, "name": "Ankit", "comment": "Comfortable for travel." },
+        { "rating": 4.3, "name": "Pooja", "comment": "Nice color options." }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Winter Coat",
+      "category": "Jacket",
+      "color":"white",
+      "MRP_price": 1999,
+      "image": ["/Image/Products/p10.png", "/Image/Products/p4.png"],
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "ratings":2.5,
+      "reviews": [
+        {
+          "rating": 5,
+          "name": "Aryan",
+          "comment": "Excellent protection from cold!"
+        },
+        { "rating": 4.7, "name": "Tina", "comment": "Looks premium and warm." }
+      ]
+    }
+ 
+  ]
